@@ -1,4 +1,3 @@
-// App.tsx
 import React from 'react';
 import { SafeAreaView } from 'react-native';
 import LoginScreen from './src/presentation/login/LoginScreen';
