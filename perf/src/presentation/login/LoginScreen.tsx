@@ -1,4 +1,3 @@
-// src/presentation/login/LoginScreen.tsx
 import React from 'react';
 import { View, TextInput, Button, Text, ActivityIndicator, StyleSheet } from 'react-native';
 import { useLoginViewModel } from './LoginViewModel';
