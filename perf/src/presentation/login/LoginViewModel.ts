@@ -1,4 +1,3 @@
-// src/presentation/login/LoginViewModel.ts
 import { useState } from 'react';
 import { Alert } from 'react-native';
 import { LoginUseCase } from '../../domain/login/LoginUseCase';
