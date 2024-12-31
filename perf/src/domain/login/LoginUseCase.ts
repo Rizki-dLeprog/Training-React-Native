@@ -1,4 +1,3 @@
-// src/domain/login/LoginUseCase.ts
 import { LoginRepositoryInterface } from './LoginRepositoryInterface';
 
 export class LoginUseCase {
