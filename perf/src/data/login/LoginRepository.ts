@@ -1,4 +1,3 @@
-// src/data/login/LoginRepository.ts
 import { LoginRepositoryInterface } from '../../domain/login/LoginRepositoryInterface';
 import { RemoteLoginService } from './RemoteLoginService';
 
