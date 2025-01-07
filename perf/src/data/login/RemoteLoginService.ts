@@ -1,4 +1,3 @@
-// src/data/login/RemoteLoginService.ts
 export class RemoteLoginService {
     async login(email: string, password: string): Promise<void> {
       return new Promise((resolve, reject) => {
